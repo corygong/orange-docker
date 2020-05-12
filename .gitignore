@@ -1,2 +1,3 @@
 db/data/*
 ui/yarn.lock
+ui/node_modules/*
